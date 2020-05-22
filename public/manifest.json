@@ -1,6 +1,8 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Collectibles",
+  "name": "Collectibles",
+  "description": "View your ERC721 tokens",
+  "iconPath": "sapp_logo.png",
   "icons": [
     {
       "src": "favicon.ico",
